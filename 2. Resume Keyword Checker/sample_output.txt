@@ -1,0 +1,16 @@
+RESUME KEYWORD CHECKER
+----------------------
+
+Keywords Present:
+- python
+- machine learning
+- data analysis
+- communication
+- teamwork
+- problem solving
+- embedded systems
+
+Keywords Missing:
+- sql
+- leadership
+- git

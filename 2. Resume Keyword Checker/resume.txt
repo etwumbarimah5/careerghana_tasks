@@ -1,0 +1,22 @@
+ENOCH TWUM-BARIMAH
+
+Computer Engineering Student
+
+SKILLS
+Python
+C++
+Embedded Systems
+STM32
+IoT
+Machine Learning
+Data Analysis
+Problem Solving
+Communication
+Teamwork
+
+EDUCATION
+Bachelor of Science in Computer Engineering
+
+EXPERIENCE
+Worked on an STM32 temperature monitoring system.
+Developed a machine learning career prediction project using Python.
